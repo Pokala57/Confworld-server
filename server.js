@@ -11,7 +11,8 @@ const PORT = process.env.PORT || 3001;
 // This block fixes the CORS error by specifying which domains are allowed
 const allowedOrigins = [
   'http://localhost:5173',          // For your local React app
-  'https://icaebms-2026.netlify.app'  // Your live Netlify frontend
+  'https://icaebms-2026.netlify.app',  // Your live Netlify frontend
+  "https://confworld-client-1.onrender.com/"
 ];
 
 const corsOptions = {
