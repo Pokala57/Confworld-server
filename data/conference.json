@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "scrollText": "HYBRID EVENT - You can participate in person at Bangkok, Thailand or Virtually from your home or office.",
+    "title": "International Conference on Applied Science, Engineering, Education, Business, Management and Social Science & Humanities (ICAEBMS)",
+    "theme": "Interdisciplinary Innovations for a Sustainable Future",
+    "details": "Hybrid Conference: In Person + Online | Date: 10-11 Aug, 2026 | City, Country: Bangkok, Thailand",
+    "organizer": "Organized by: Confworld Educational Research and Development Association",
+    "isbn": "ISBN: 978-95-813001-3-6"
+  },
+  "welcome": {
+    "title": "Welcome to ICAEBMS-2026",
+    "paragraphs": [
+      "We warmly welcome you to the International Conference on Applied Science, Engineering, Education, Business, Management and Social Science & Humanities (ICAEBMS).",
+      "Theme “Interdisciplinary Innovations for a Sustainable Future” ICAEBMS serves as a global platform where researchers, academicians, professionals and students from around the world come together to exchange ideas, present findings and build collaborations across disciplines.",
+      "This conference is not just an academic gathering, it is a space for innovation, interchange and the creation of solutions that address real-world challenges. By bringing together experts in science, engineering, education, business, management, social sciences and humanities, ICAEBMS fosters interdisciplinary connections that pave the way for impactful change.",
+      "Join us in shaping the future through knowledge, research and collaboration. Together, we can drive progress for a more sustainable and inclusive world."
+    ]
+  },
+  "theme": {
+    "title": "Conference Theme",
+    "subtitle": "“Interdisciplinary Innovations for a Sustainable Future”",
+    "paragraph": "The theme reflects the core vision of ICAEBMS bringing together diverse fields of knowledge to address global challenges. By uniting applied science, engineering, education, business, management, social sciences and humanities, the conference aims to foster creativity, collaboration and sustainable solutions that transcend traditional boundaries.",
+    "seeks": [
+      "To encourage interdisciplinary collaboration among researchers, academicians, industry experts and policymakers.",
+      "To promote innovative research and practices that contribute to sustainable development.",
+      "To bridge the gap between science, technology, business and society through knowledge-sharing and discourse.",
+      "To empower future leaders and young scholars with insights and opportunities for global engagement.",
+      "To foster solutions that are practical, inclusive and impactful in addressing real-world challenges."
+    ]
+  },
+  "highlights": [
+    { "icon": "✔️", "text": "Multidisciplinary Platform – A unique forum uniting diverse fields." },
+    { "icon": "🌍", "text": "Global Participation – Engage with renowned scholars and leaders." },
+    { "icon": "📖", "text": "Call for Papers & Publications – Publish in reputed scopus indexed journals." },
+    { "icon": "🎤", "text": "Expert Keynote Sessions – Insights on cutting-edge research." },
+    { "icon": "🤝", "text": "Interactive Workshops & Panel Discussions – Hands-on learning." },
+    { "icon": "🔗", "text": "Networking Opportunities – Build academic and-industrial collaborations." },
+    { "icon": "🏆", "text": "Recognition & Awards – Best paper and presentation awards." },
+    { "icon": "🎓", "text": "Student & Young Researcher Engagement – Special sessions to inspire." }
+  ],
+  "tracks": [
+    "Session 1: Applied Science",
+    "Session 2: Engineering & Technological Advancements",
+    "Session 3: Education & Pedagogical Innovations",
+    "Session 4: Business & Management Studies",
+    "Session 5: Social Science and Humanities",
+    "Session 6: Finance, Accountancy and Marketing"
+  ],
+  "deadlines": [
+    { "event": "Early Bird registration:", "date": "31 Dec 2025" },
+    { "event": "Abstract submission:", "date": "31 Jan 2026" },
+    { "event": "Full paper submission:", "date": "28 Feb 2026" },
+    { "event": "Final Registration:", "date": "31 Mar 2026" }
+  ],
+  "whyJoin": {
+    "intro": "The International Conference on Applied Science, Engineering, Education, Business, Management and Social Science & Humanities (ICAEBMS) is more than just an academic event, it’s a global platform for innovation, collaboration and growth.",
+    "benefits": [
+      "Present Your Research",
+      "Get Published",
+      "Learn from Experts",
+      "Expand Your Network",
+      "Interdisciplinary Exposure",
+      "Recognition & Awards",
+      "Global Visibility",
+      "Empower the Future"
+    ]
+  },
+  "publications": {
+    "note": "Note: ICAEBMS - 2026 Proceedings will be submitted to the Web of science Book citation index (BkCI) and Scopus for evaluation and indexing purposes (T&C)* apply."
+  }
+}
