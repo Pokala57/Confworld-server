@@ -6,8 +6,30 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // --- Middleware ---
-// Enable CORS for all routes (to allow React dev server to fetch)
-app.use(cors()); 
+
+// --- NEW CORS CONFIGURATION ---
+// This block fixes the CORS error by specifying which domains are allowed
+const allowedOrigins = [
+  'http://localhost:5173',          // For your local React app
+  'https://icaebms-2026.netlify.app'  // Your live Netlify frontend
+];
+
+const corsOptions = {
+  origin: function (origin, callback) {
+    // Check if the request's origin is in our allowed list
+    // !origin allows requests from tools like Postman
+    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('This origin is not allowed by CORS'));
+    }
+  }
+};
+
+// Use the new corsOptions
+app.use(cors(corsOptions));
+// ------------------------------
+
 // Parse incoming JSON request bodies (for our form)
 app.use(express.json()); 
 
